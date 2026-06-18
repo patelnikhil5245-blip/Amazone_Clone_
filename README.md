@@ -2,7 +2,7 @@
 
 🎉Welcome to my Amazon clone! This project is an Amazon clone built using HTML, CSS, and JavaScript. 🌐✨
 
-Project Demo: https://patelnikhil5245-blip.github.io/AMAZON-CLONE/
+Project Demo: [https://patelnikhil5245-blip.github.io/AMAZON-CLONE/](https://patelnikhil5245-blip.github.io/Amazone_Clone_/)
 
 ## 🌟 Features 🌟
 
