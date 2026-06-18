@@ -13,9 +13,10 @@ Project Demo: https://patelnikhil5245-blip.github.io/AMAZON-CLONE/
 
 #### 📸 Screenshots (Output) 📸
 
-![HOME PAGE 1](https://github.com/patelnikhil5245-blip/AMAZON-CLONE/assets/130860182/37893182-0b7e-46fc-ae1e-fa591e66be40)
+<img width="1920" height="1013" alt="image" src="https://github.com/user-attachments/assets/5477e944-3067-4b46-9276-4074d5577fee" />
+<img width="1920" height="1013" alt="image" src="https://github.com/user-attachments/assets/b131404a-a853-45ec-af51-e754c3f91416" />
 
-![HOME PAGE 2](https://github.com/patelnikhil5245-blip/AMAZON-CLONE/assets/130860182/2ac18a0a-75d6-44b9-adad-af1e800b7c7f)
+
 
 ### 📦 Orders and Returns Page 📦
 - **🚚 Order Tracking 🚚**: Users can track the status of their orders to see their current location.
@@ -23,9 +24,8 @@ Project Demo: https://patelnikhil5245-blip.github.io/AMAZON-CLONE/
 
 #### 📸 Screenshots (Output) 📸
 
-![ORDERS AND RETURNS PAGE 1](https://github.com/patelnikhil5245-blip/AMAZON-CLONE/assets/130860182/cb5e6514-454e-4621-b8db-f27172fc94e0)
+<img width="1920" height="1013" alt="image" src="https://github.com/user-attachments/assets/1d37663f-3ccb-445d-9f9d-adce6c134c7a" />
 
-![ORDERS AND RETURNS PAGE 2](https://github.com/patelnikhil5245-blip/AMAZON-CLONE/assets/130860182/844c701e-9d8a-4456-9760-895515325ce6)
 
 ### 🛒 Cart Page 🛒
 - **📝 Order Review 📝**: Users can review items in their cart, including the ability to remove unwanted items.
@@ -33,7 +33,10 @@ Project Demo: https://patelnikhil5245-blip.github.io/AMAZON-CLONE/
 
 #### 📸 Screenshots (Output) 📸
 
-![CART PAGE 1](https://github.com/patelnikhil5245-blip/AMAZON-CLONE/assets/130860182/afe2df27-7a3e-42a1-90eb-a5c7603b5a6e)
+<img width="1920" height="1013" alt="image" src="https://github.com/user-attachments/assets/4ef96259-e03b-4889-ac31-19bccfc74f3c" />
+
+<img width="1920" height="1013" alt="image" src="https://github.com/user-attachments/assets/f74967cd-591f-4a79-8dc6-16d4f4a96871" />
+
 
 ## 🛠️ Technologies Used 🛠️
 
